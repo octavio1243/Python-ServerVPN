@@ -8,7 +8,7 @@ El objetivo fue crear un VPN de capa 3 con un tunel (sin cifrado) que permita co
 
 Requisitos:
 - Linux (o Windows usando Hyper-V)
-- El cliente pensado para esto es ToyVPN. Puede obtenerlo [aqui](https://github.com/qwj/python-vpn)
+- El cliente pensado para esto es ToyVPN. Puede obtenerlo [aqui](https://github.com/octavio1243/ToyVpn-Client))
     
 Pre-requistios:
 
