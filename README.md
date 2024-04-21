@@ -1,6 +1,6 @@
 Servidor VPN con Scapy para Dispositivos Android
 
-Servidor VPN basado en [VPN Server implemented in pure Python](http://github.com](https://github.com/qwj/python-vpn)  pero usando unicamente Scapy y simplificando el Forward pensado para usar en dispositivos Android
+Servidor VPN basado en [VPN Server implemented in pure Python](https://github.com/qwj/python-vpn) pero usando unicamente Scapy y simplificando el Forward pensado para usar en dispositivos Android
 
 Acerca del Proyecto:
 
@@ -8,7 +8,7 @@ El objetivo fue crear un VPN de capa 3 con un tunel (sin cifrado) que permita co
 
 Requisitos:
 - Linux (o Windows usando Hyper-V)
-- El cliente pensado para esto es ToyVPN. Puede obtenerlo [aqui](http://github.com](https://github.com/qwj/python-vpn)](https://github.com/octavio1243/ToyVpn-Client)
+- El cliente pensado para esto es ToyVPN. Puede obtenerlo [aqui](https://github.com/qwj/python-vpn)
     
 Pre-requistios:
 
